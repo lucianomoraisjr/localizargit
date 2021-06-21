@@ -1,0 +1,29 @@
+{
+  "name": "localizargit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianomoraisjr/localizargit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts":{
+    "dev": "nodemon index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/lucianomoraisjr/localizargit/issues"
+  },
+  "homepage": "https://github.com/lucianomoraisjr/localizargit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
